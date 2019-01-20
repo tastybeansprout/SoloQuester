@@ -26,6 +26,7 @@
   position: relative;
   box-sizing: border-box;
   width: 100%;
+  font-size: 13px;
   border-top: 1px solid #fff;
   border-bottom: 2px solid #dee2e6;
   background-color: #fff;

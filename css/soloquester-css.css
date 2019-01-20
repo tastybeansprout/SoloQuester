@@ -1,0 +1,43 @@
+
+.orc-hero {
+    display: block; 
+    margin: auto; 
+    max-width: 250px;
+}
+
+.fa-trophy {
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+.subheading {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.name-styling {
+    font-weight: 700;
+}
+
+.tabulator-footer {
+    text-align: center !important;
+}
+
+#potion {
+    width: 45px;
+}
+
+.footer {
+    background-color: #fff;
+}
+
+.has-text-centered p{
+    font-size: 14px;
+}
+

@@ -318,7 +318,7 @@ var table = new Tabulator("#example-table", {
         {title:"", field:"thumbnail", formatter:"image", headerSort:false, width: 130, formatterParams:{
             width:"100px",   
         }},
-        {title:"Name", field:"name", formatter:"textarea", cssClass:"name-styling", width:200},
+        {title:"Name", field:"name", formatter:"textarea", cssClass:"name-styling"},
         {title:"Rating", field:"average"}, 
         {title:"Reviewers", field:"statistics"}, 
         {title:"Rank", field:"value"},

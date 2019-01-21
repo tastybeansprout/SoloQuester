@@ -325,7 +325,6 @@ var table = new Tabulator("#example-table", {
         {title:"Type", field:"type"},
         {title:"Year", field:"yearpublished"},
         {title:"Time", field:"playingtime"},
-        {title:"MinAge", field:"minage"},
         {title:"Weight", field:"averageweight"},
         {title:"Link", field:"id", formatter:"link", headerSort:false, width: 75, formatterParams:{
             labelField:"id",
